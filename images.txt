@@ -1,5 +1,5 @@
 # rabbitmq:4-management
 # redis
 # minio/minio
-mongo
-nacos/nacos-server
+mongo:4
+#nacos/nacos-server
