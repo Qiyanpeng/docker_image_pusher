@@ -1,4 +1,5 @@
-# rabbitmq:3.13.0-management
+# rabbitmq:4-management
 # redis
-# nacos/nacos-server:v2.1.1
-minio/minio
+# minio/minio
+mongo
+nacos/nacos-server
